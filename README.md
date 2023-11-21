@@ -3,3 +3,5 @@
 
 ### Commits
 ![Snake animation](https://github.com/JaoPedro007/JaoPedro007/blob/output/github-snake-dark.svg)
+
+![programmer](https://github.com/JaoPedro007/JaoPedro007/assets/106089677/037035cc-e7b9-42c5-aa6b-11b16d8ef6af)
