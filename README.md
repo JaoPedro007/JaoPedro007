@@ -12,7 +12,8 @@
 
 
 <br> 
-![programmer](https://github.com/JaoPedro007/JaoPedro007/assets/106089677/6de3df04-3a1c-4925-8d7e-bc924f04e3bb)
+
+![programmer](https://github.com/JaoPedro007/JaoPedro007/assets/106089677/e7238ded-eb1b-43a5-9f62-99062b3e76d4)
 
 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-leite-038537167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
