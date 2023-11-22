@@ -12,8 +12,6 @@
 
 
 <br> 
-
-
 ![programmer](https://github.com/JaoPedro007/JaoPedro007/assets/106089677/6de3df04-3a1c-4925-8d7e-bc924f04e3bb)
 
 
