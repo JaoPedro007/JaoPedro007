@@ -13,7 +13,7 @@
 
 <br> 
 
-<img src="https://github.com/JaoPedro007/JaoPedro007/assets/106089677/e7238ded-eb1b-43a5-9f62-99062b3e76d4" width="600">
+<img src="https://github.com/JaoPedro007/JaoPedro007/assets/106089677/e7238ded-eb1b-43a5-9f62-99062b3e76d4" width="400">
 
 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-leite-038537167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
