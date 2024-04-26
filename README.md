@@ -1,11 +1,12 @@
 ### Linguagens principais
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoPedro007&layout=compact&langs_count=7&theme=dark)](https://github.com/JaoPedro007)
 
-<img src="https://github.com/JaoPedro007/JaoPedro007/assets/106089677/ae86e53b-7c8c-49d2-90eb-ffedeb61c265" width="50">
-<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" width="110"> 
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 
 </div>
 
