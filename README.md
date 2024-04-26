@@ -1,7 +1,7 @@
 ### Linguagens principais
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoPedro007&layout=compact&langs_count=7&theme=dark)](https://github.com/JaoPedro007)
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kali,linux,aws,jenkins,nginx,java,postgres,mongodb" />
   </a>
