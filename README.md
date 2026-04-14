@@ -1,5 +1,3 @@
-[![Top Langs](github-readme-stats-three-mu-20.vercel.app/api/top-langs/?username=JaoPedro007)](https://github.com/JaoPedro007/github-readme-stats)
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kali,linux,aws,jenkins,nginx,java,postgres,mongodb" />
