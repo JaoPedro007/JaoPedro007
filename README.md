@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoPedro007&layout=compact&langs_count=7&theme=dark)](https://github.com/JaoPedro007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoPedro007)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <a href="https://skillicons.dev">
